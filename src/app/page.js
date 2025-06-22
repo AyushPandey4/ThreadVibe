@@ -187,7 +187,7 @@ export default function ThreadVibeLanding() {
                 <span className="sr-only">Toggle theme</span>
               </Button>
               <a 
-                href="https://github.com/Ayush6968" 
+                href="https://github.com/AyushPandey4" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="group ml-4 p-2.5 rounded-full hover:bg-background/80 transition-colors animate-float"
